@@ -43,6 +43,34 @@ Copy `.env.example` to `.env` and set:
 - Local: `COPILOT_LLM_PROVIDER=ollama` (run `ollama pull llama3.1 && ollama pull nomic-embed-text`)
 - Cloud: `COPILOT_LLM_PROVIDER=openai` and `OPENAI_API_KEY=...`
 
+## Running on Windows
+Use PowerShell with Python 3.10+ installed from python.org (tick "Add python.exe to PATH" during install).
+
+```powershell
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+
+# API (terminal 1)
+uvicorn copilot.api:app --reload
+# UI (terminal 2, run .venv\Scripts\activate first)
+streamlit run ui/streamlit_app.py
+```
+If activation is blocked with "running scripts is disabled", run once:
+`Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+
+Try the API with the sample logs. Use `curl.exe`, not `curl` (in PowerShell `curl` is an alias for `Invoke-WebRequest`):
+```powershell
+$up = curl.exe -s -F "file=@samples/order-service.log" http://localhost:8000/logs/upload | ConvertFrom-Json
+$body = @{ session_id = $up.session_id; question = "Why are orders failing?" } | ConvertTo-Json
+Invoke-RestMethod -Method Post -Uri http://localhost:8000/ask -ContentType "application/json" -Body $body | ConvertTo-Json -Depth 10
+```
+Or open http://localhost:8000/docs in a browser to try every endpoint.
+
+Use a real LLM: `copy .env.example .env`, then edit `COPILOT_LLM_PROVIDER` in `.env`. For Ollama, install it from ollama.com and run `ollama pull llama3.1` and `ollama pull nomic-embed-text`.
+
+Run the tests: `pytest`
+
 ## API
 | Method | Path | Description |
 |---|---|---|
