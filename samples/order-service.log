@@ -1,0 +1,1257 @@
+2024-05-14 02:00:00.859 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 175954 processed in 157ms
+2024-05-14 02:00:01.534 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 139317 processed in 42ms
+2024-05-14 02:00:02.481 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 161981 processed in 164ms
+2024-05-14 02:00:03.180 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 705136 processed in 169ms
+2024-05-14 02:00:04.097 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 403677 processed in 127ms
+2024-05-14 02:00:04.813 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 208061 processed in 168ms
+2024-05-14 02:00:05.870 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 691783 processed in 35ms
+2024-05-14 02:00:06.965 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 914983 processed in 100ms
+2024-05-14 02:00:07.937 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 932967 processed in 66ms
+2024-05-14 02:00:09.096 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 650708 processed in 146ms
+2024-05-14 02:00:10.397 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 223800 processed in 151ms
+2024-05-14 02:00:11.331 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 542182 processed in 30ms
+2024-05-14 02:00:12.701 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 456644 processed in 109ms
+2024-05-14 02:00:13.776 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 980770 processed in 43ms
+2024-05-14 02:00:15.132 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 163616 processed in 99ms
+2024-05-14 02:00:16.250 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 801133 processed in 108ms
+2024-05-14 02:00:16.868 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 617674 processed in 35ms
+2024-05-14 02:00:17.642 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 517225 processed in 120ms
+2024-05-14 02:00:18.976 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 521154 processed in 160ms
+2024-05-14 02:00:19.798 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 840710 processed in 126ms
+2024-05-14 02:00:21.187 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 187015 processed in 65ms
+2024-05-14 02:00:21.908 WARN 4242 --- [http-nio-8080-exec-8] c.c.orders.client.PaymentClient : Payment gateway slow response: 3913ms for txn 33900
+2024-05-14 02:00:22.718 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 739434 processed in 164ms
+2024-05-14 02:00:23.573 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 578825 processed in 163ms
+2024-05-14 02:00:24.487 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 765100 processed in 122ms
+2024-05-14 02:00:25.137 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 270187 processed in 48ms
+2024-05-14 02:00:26.009 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 662685 processed in 45ms
+2024-05-14 02:00:27.368 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 743898 processed in 116ms
+2024-05-14 02:00:28.087 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 597183 processed in 51ms
+2024-05-14 02:00:28.779 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 603730 processed in 143ms
+2024-05-14 02:00:29.629 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 876314 processed in 87ms
+2024-05-14 02:00:30.612 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 653918 processed in 112ms
+2024-05-14 02:00:31.329 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 774147 processed in 43ms
+2024-05-14 02:00:32.486 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 472974 processed in 77ms
+2024-05-14 02:00:33.512 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 743016 processed in 69ms
+2024-05-14 02:00:34.757 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 309629 processed in 152ms
+2024-05-14 02:00:35.751 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 595179 processed in 86ms
+2024-05-14 02:00:36.506 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 947842 processed in 109ms
+2024-05-14 02:00:37.870 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 337865 processed in 140ms
+2024-05-14 02:00:38.627 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 602764 processed in 108ms
+2024-05-14 02:00:39.867 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 507409 processed in 71ms
+2024-05-14 02:00:40.849 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 190963 processed in 121ms
+2024-05-14 02:00:41.820 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 233209 processed in 27ms
+2024-05-14 02:00:42.541 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 741281 processed in 172ms
+2024-05-14 02:00:43.925 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 122436 processed in 23ms
+2024-05-14 02:00:45.165 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 554882 processed in 69ms
+2024-05-14 02:00:46.426 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 407197 processed in 148ms
+2024-05-14 02:00:47.218 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 974716 processed in 53ms
+2024-05-14 02:00:47.867 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 967318 processed in 148ms
+2024-05-14 02:00:48.571 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 561504 processed in 66ms
+2024-05-14 02:00:49.658 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 749174 processed in 50ms
+2024-05-14 02:00:50.703 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 922369 processed in 47ms
+2024-05-14 02:00:52.010 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 144248 processed in 45ms
+2024-05-14 02:00:53.016 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 564779 processed in 103ms
+2024-05-14 02:00:54.106 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 826381 processed in 90ms
+2024-05-14 02:00:55.068 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 833183 processed in 153ms
+2024-05-14 02:00:56.369 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 980803 processed in 134ms
+2024-05-14 02:00:57.079 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 176070 processed in 81ms
+2024-05-14 02:00:58.022 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 914672 processed in 59ms
+2024-05-14 02:00:59.373 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 590456 processed in 76ms
+2024-05-14 02:01:00.571 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 270703 processed in 77ms
+2024-05-14 02:01:01.300 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 455589 processed in 127ms
+2024-05-14 02:01:02.056 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 120429 processed in 106ms
+2024-05-14 02:01:03.100 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 447600 processed in 152ms
+2024-05-14 02:01:04.199 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 926658 processed in 78ms
+2024-05-14 02:01:05.576 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 141511 processed in 66ms
+2024-05-14 02:01:06.392 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 525667 processed in 58ms
+2024-05-14 02:01:07.422 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 193807 processed in 91ms
+2024-05-14 02:01:08.068 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 381986 processed in 24ms
+2024-05-14 02:01:09.175 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 169858 processed in 87ms
+2024-05-14 02:01:10.466 WARN 4242 --- [http-nio-8080-exec-15] c.c.orders.client.PaymentClient : Payment gateway slow response: 3765ms for txn 64756
+2024-05-14 02:01:11.807 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 652510 processed in 81ms
+2024-05-14 02:01:13.157 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 311569 processed in 99ms
+2024-05-14 02:01:14.260 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 567336 processed in 148ms
+2024-05-14 02:01:15.398 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 362614 processed in 29ms
+2024-05-14 02:01:16.010 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 639214 processed in 141ms
+2024-05-14 02:01:16.807 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 788400 processed in 146ms
+2024-05-14 02:01:17.844 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 821149 processed in 75ms
+2024-05-14 02:01:19.230 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 524356 processed in 108ms
+2024-05-14 02:01:20.615 WARN 4242 --- [http-nio-8080-exec-5] c.c.orders.client.PaymentClient : Payment gateway slow response: 2546ms for txn 66458
+2024-05-14 02:01:21.346 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 630519 processed in 92ms
+2024-05-14 02:01:22.425 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 265185 processed in 88ms
+2024-05-14 02:01:23.381 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 673648 processed in 102ms
+2024-05-14 02:01:24.177 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 101120 processed in 105ms
+2024-05-14 02:01:25.082 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 360234 processed in 149ms
+2024-05-14 02:01:26.303 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 250853 processed in 122ms
+2024-05-14 02:01:27.373 ERROR 4242 --- [http-nio-8080-exec-13] c.c.orders.client.PaymentClient : Payment call failed for order 419023
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:01:28.476 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 789484 processed in 172ms
+2024-05-14 02:01:29.388 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 256723 processed in 92ms
+2024-05-14 02:01:30.567 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 869499 processed in 149ms
+2024-05-14 02:01:31.279 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 966552 processed in 169ms
+2024-05-14 02:01:32.517 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 239558 processed in 112ms
+2024-05-14 02:01:33.885 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 758261 processed in 24ms
+2024-05-14 02:01:34.986 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 579145 processed in 37ms
+2024-05-14 02:01:36.184 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 791325 processed in 154ms
+2024-05-14 02:01:36.837 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 987235 processed in 87ms
+2024-05-14 02:01:37.625 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 617942 processed in 117ms
+2024-05-14 02:01:38.286 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 181235 processed in 173ms
+2024-05-14 02:01:39.004 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 751323 processed in 165ms
+2024-05-14 02:01:39.711 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 804644 processed in 45ms
+2024-05-14 02:01:40.865 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 587234 processed in 139ms
+2024-05-14 02:01:41.838 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 426814 processed in 41ms
+2024-05-14 02:01:43.187 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 959725 processed in 149ms
+2024-05-14 02:01:44.561 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 320030 processed in 73ms
+2024-05-14 02:01:45.221 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 477019 processed in 53ms
+2024-05-14 02:01:46.304 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 837502 processed in 113ms
+2024-05-14 02:01:47.089 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 103764 processed in 145ms
+2024-05-14 02:01:48.234 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 536397 processed in 108ms
+2024-05-14 02:01:49.135 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 440312 processed in 106ms
+2024-05-14 02:01:50.406 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 847659 processed in 23ms
+2024-05-14 02:01:51.728 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 511984 processed in 119ms
+2024-05-14 02:01:53.127 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 892363 processed in 90ms
+2024-05-14 02:01:54.410 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 765807 processed in 58ms
+2024-05-14 02:01:55.209 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 299071 processed in 115ms
+2024-05-14 02:01:56.438 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 681071 processed in 160ms
+2024-05-14 02:01:57.200 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 572761 processed in 177ms
+2024-05-14 02:01:58.402 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 279057 processed in 140ms
+2024-05-14 02:01:59.334 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 525941 processed in 81ms
+2024-05-14 02:02:00.175 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 275460 processed in 61ms
+2024-05-14 02:02:00.835 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 677122 processed in 76ms
+2024-05-14 02:02:01.798 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 548185 processed in 55ms
+2024-05-14 02:02:02.836 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 682876 processed in 43ms
+2024-05-14 02:02:03.691 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 121057 processed in 125ms
+2024-05-14 02:02:04.597 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 454631 processed in 35ms
+2024-05-14 02:02:05.596 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 820112 processed in 148ms
+2024-05-14 02:02:06.619 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 503241 processed in 122ms
+2024-05-14 02:02:07.736 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 233428 processed in 28ms
+2024-05-14 02:02:08.676 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 100187 processed in 38ms
+2024-05-14 02:02:09.589 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 360534 processed in 47ms
+2024-05-14 02:02:10.368 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 965489 processed in 137ms
+2024-05-14 02:02:11.036 WARN 4242 --- [http-nio-8080-exec-2] c.c.orders.client.PaymentClient : Payment gateway slow response: 2014ms for txn 40484
+2024-05-14 02:02:12.092 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 234182 processed in 180ms
+2024-05-14 02:02:12.893 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 204275 processed in 38ms
+2024-05-14 02:02:13.734 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 334443 processed in 173ms
+2024-05-14 02:02:14.335 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 392137 processed in 100ms
+2024-05-14 02:02:15.450 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 673573 processed in 83ms
+2024-05-14 02:02:16.074 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 157995 processed in 25ms
+2024-05-14 02:02:16.829 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 799772 processed in 128ms
+2024-05-14 02:02:18.169 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 853225 processed in 127ms
+2024-05-14 02:02:19.059 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 875033 processed in 149ms
+2024-05-14 02:02:19.713 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 903059 processed in 69ms
+2024-05-14 02:02:20.497 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 214303 processed in 179ms
+2024-05-14 02:02:21.494 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 537286 processed in 34ms
+2024-05-14 02:02:22.853 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 323293 processed in 26ms
+2024-05-14 02:02:24.232 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 293047 processed in 120ms
+2024-05-14 02:02:25.192 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 273679 processed in 104ms
+2024-05-14 02:02:25.945 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 426974 processed in 116ms
+2024-05-14 02:02:27.216 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 103010 processed in 40ms
+2024-05-14 02:02:28.040 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 688386 processed in 73ms
+2024-05-14 02:02:28.944 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 192023 processed in 32ms
+2024-05-14 02:02:30.108 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 302402 processed in 102ms
+2024-05-14 02:02:31.000 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 360060 processed in 180ms
+2024-05-14 02:02:32.213 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 165619 processed in 35ms
+2024-05-14 02:02:33.018 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 480606 processed in 89ms
+2024-05-14 02:02:33.886 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 389019 processed in 96ms
+2024-05-14 02:02:34.489 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 125434 processed in 79ms
+2024-05-14 02:02:35.175 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 928164 processed in 84ms
+2024-05-14 02:02:36.506 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 291825 processed in 22ms
+2024-05-14 02:02:37.748 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 736752 processed in 80ms
+2024-05-14 02:02:38.610 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 636750 processed in 70ms
+2024-05-14 02:02:39.524 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 781098 processed in 28ms
+2024-05-14 02:02:40.509 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 210332 processed in 38ms
+2024-05-14 02:02:41.321 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 622689 processed in 134ms
+2024-05-14 02:02:42.060 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 884310 processed in 157ms
+2024-05-14 02:02:43.337 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 408052 processed in 91ms
+2024-05-14 02:02:44.391 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 308865 processed in 132ms
+2024-05-14 02:02:45.189 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 706371 processed in 68ms
+2024-05-14 02:02:46.050 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 631968 processed in 154ms
+2024-05-14 02:02:46.835 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 207303 processed in 21ms
+2024-05-14 02:02:47.815 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 142322 processed in 95ms
+2024-05-14 02:02:48.601 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 178765 processed in 115ms
+2024-05-14 02:02:49.611 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 912644 processed in 21ms
+2024-05-14 02:02:50.296 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 328217 processed in 29ms
+2024-05-14 02:02:51.191 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 140093 processed in 173ms
+2024-05-14 02:02:52.376 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 528862 processed in 115ms
+2024-05-14 02:02:53.125 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 933912 processed in 146ms
+2024-05-14 02:02:54.163 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 796282 processed in 160ms
+2024-05-14 02:02:54.887 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 517094 processed in 89ms
+2024-05-14 02:02:55.814 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 153855 processed in 99ms
+2024-05-14 02:02:57.011 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 903904 processed in 113ms
+2024-05-14 02:02:58.126 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 106162 processed in 131ms
+2024-05-14 02:02:59.448 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 525950 processed in 167ms
+2024-05-14 02:03:00.754 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 115554 processed in 33ms
+2024-05-14 02:03:01.795 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 873061 processed in 149ms
+2024-05-14 02:03:02.532 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 170356 processed in 47ms
+2024-05-14 02:03:03.439 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 606185 processed in 100ms
+2024-05-14 02:03:04.082 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 771428 processed in 76ms
+2024-05-14 02:03:05.179 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 291853 processed in 164ms
+2024-05-14 02:03:05.953 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 502208 processed in 111ms
+2024-05-14 02:03:06.652 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 143095 processed in 163ms
+2024-05-14 02:03:07.926 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 223449 processed in 119ms
+2024-05-14 02:03:09.006 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 780555 processed in 127ms
+2024-05-14 02:03:09.852 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 568492 processed in 148ms
+2024-05-14 02:03:10.803 WARN 4242 --- [http-nio-8080-exec-1] c.c.orders.client.PaymentClient : Payment gateway slow response: 3504ms for txn 70984
+2024-05-14 02:03:11.591 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 977181 processed in 65ms
+2024-05-14 02:03:12.839 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 475993 processed in 130ms
+2024-05-14 02:03:13.732 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 142626 processed in 53ms
+2024-05-14 02:03:14.397 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 156900 processed in 149ms
+2024-05-14 02:03:15.713 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 743955 processed in 48ms
+2024-05-14 02:03:16.468 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 819463 processed in 76ms
+2024-05-14 02:03:17.121 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 266479 processed in 102ms
+2024-05-14 02:03:18.438 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 250546 processed in 85ms
+2024-05-14 02:03:19.440 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 745782 processed in 149ms
+2024-05-14 02:03:20.230 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 523064 processed in 61ms
+2024-05-14 02:03:21.339 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 276938 processed in 87ms
+2024-05-14 02:03:22.031 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 575045 processed in 162ms
+2024-05-14 02:03:23.048 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 873768 processed in 115ms
+2024-05-14 02:03:23.860 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 446899 processed in 40ms
+2024-05-14 02:03:24.814 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 410780 processed in 152ms
+2024-05-14 02:03:25.617 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 868646 processed in 20ms
+2024-05-14 02:03:26.814 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 537976 processed in 151ms
+2024-05-14 02:03:27.706 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 742273 processed in 31ms
+2024-05-14 02:03:28.324 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 211529 processed in 153ms
+2024-05-14 02:03:29.209 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 717707 processed in 54ms
+2024-05-14 02:03:29.973 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 241294 processed in 23ms
+2024-05-14 02:03:31.322 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 200458 processed in 36ms
+2024-05-14 02:03:32.432 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 112054 processed in 34ms
+2024-05-14 02:03:33.548 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 731118 processed in 152ms
+2024-05-14 02:03:34.735 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 146139 processed in 35ms
+2024-05-14 02:03:35.760 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 161215 processed in 46ms
+2024-05-14 02:03:36.370 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 249177 processed in 125ms
+2024-05-14 02:03:37.130 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 952891 processed in 176ms
+2024-05-14 02:03:37.870 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 859489 processed in 142ms
+2024-05-14 02:03:39.042 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 881385 processed in 139ms
+2024-05-14 02:03:39.706 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 374125 processed in 79ms
+2024-05-14 02:03:40.822 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 846255 processed in 33ms
+2024-05-14 02:03:41.634 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 409976 processed in 75ms
+2024-05-14 02:03:42.303 WARN 4242 --- [http-nio-8080-exec-17] c.c.orders.client.PaymentClient : Payment gateway slow response: 2566ms for txn 40947
+2024-05-14 02:03:43.576 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 301260 processed in 119ms
+2024-05-14 02:03:44.439 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 595075 processed in 155ms
+2024-05-14 02:03:45.597 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 698045 processed in 98ms
+2024-05-14 02:03:46.828 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 692659 processed in 63ms
+2024-05-14 02:03:47.544 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 461615 processed in 56ms
+2024-05-14 02:03:48.705 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 830865 processed in 37ms
+2024-05-14 02:03:49.894 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 308993 processed in 156ms
+2024-05-14 02:03:51.207 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 212319 processed in 83ms
+2024-05-14 02:03:51.972 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 965138 processed in 93ms
+2024-05-14 02:03:52.953 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 408763 processed in 101ms
+2024-05-14 02:03:53.823 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.client.PaymentClient : Payment call failed for order 369171
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:03:55.167 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 436412 processed in 174ms
+2024-05-14 02:03:56.170 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 927385 processed in 125ms
+2024-05-14 02:03:56.795 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 591720 processed in 32ms
+2024-05-14 02:03:57.825 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 702449 processed in 93ms
+2024-05-14 02:03:58.561 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 899204 processed in 33ms
+2024-05-14 02:03:59.165 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 618606 processed in 171ms
+2024-05-14 02:04:00.042 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 397512 processed in 74ms
+2024-05-14 02:04:01.393 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 767451 processed in 40ms
+2024-05-14 02:04:02.385 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 472891 processed in 44ms
+2024-05-14 02:04:03.306 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 542635 processed in 26ms
+2024-05-14 02:04:04.204 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 497730 processed in 79ms
+2024-05-14 02:04:05.559 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 465413 processed in 168ms
+2024-05-14 02:04:06.420 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 794262 processed in 161ms
+2024-05-14 02:04:07.614 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 707303 processed in 79ms
+2024-05-14 02:04:08.315 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 632365 processed in 69ms
+2024-05-14 02:04:09.129 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 359607 processed in 103ms
+2024-05-14 02:04:10.211 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 298467 processed in 86ms
+2024-05-14 02:04:11.591 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 304925 processed in 118ms
+2024-05-14 02:04:12.312 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 556049 processed in 90ms
+2024-05-14 02:04:13.069 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 586451 processed in 28ms
+2024-05-14 02:04:13.679 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 585783 processed in 25ms
+2024-05-14 02:04:14.392 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 876937 processed in 82ms
+2024-05-14 02:04:15.719 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 987088 processed in 78ms
+2024-05-14 02:04:16.853 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 772702 processed in 51ms
+2024-05-14 02:04:17.816 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 539961 processed in 82ms
+2024-05-14 02:04:19.042 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 606193 processed in 136ms
+2024-05-14 02:04:19.658 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 786282 processed in 103ms
+2024-05-14 02:04:20.880 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 139998 processed in 84ms
+2024-05-14 02:04:21.915 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 644441 processed in 109ms
+2024-05-14 02:04:22.596 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 852139 processed in 141ms
+2024-05-14 02:04:23.606 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 878158 processed in 136ms
+2024-05-14 02:04:24.374 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 864523 processed in 177ms
+2024-05-14 02:04:25.258 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 519099 processed in 35ms
+2024-05-14 02:04:25.869 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 708357 processed in 87ms
+2024-05-14 02:04:26.556 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 940420 processed in 120ms
+2024-05-14 02:04:27.526 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 948898 processed in 69ms
+2024-05-14 02:04:28.501 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 470285 processed in 125ms
+2024-05-14 02:04:29.476 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 917728 processed in 140ms
+2024-05-14 02:04:30.360 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 820845 processed in 84ms
+2024-05-14 02:04:31.746 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 475366 processed in 82ms
+2024-05-14 02:04:32.869 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 753644 processed in 41ms
+2024-05-14 02:04:33.997 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 995951 processed in 118ms
+2024-05-14 02:04:34.643 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 656424 processed in 108ms
+2024-05-14 02:04:35.749 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 175497 processed in 95ms
+2024-05-14 02:04:36.549 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 294682 processed in 135ms
+2024-05-14 02:04:37.426 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 930130 processed in 156ms
+2024-05-14 02:04:38.161 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 800928 processed in 160ms
+2024-05-14 02:04:39.391 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 656579 processed in 40ms
+2024-05-14 02:04:40.585 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 682026 processed in 50ms
+2024-05-14 02:04:41.396 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 617028 processed in 162ms
+2024-05-14 02:04:42.043 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 358543 processed in 147ms
+2024-05-14 02:04:42.775 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 268146 processed in 102ms
+2024-05-14 02:04:43.749 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 981397 processed in 139ms
+2024-05-14 02:04:44.649 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 289287 processed in 112ms
+2024-05-14 02:04:45.758 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.client.PaymentClient : Payment call failed for order 148098
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:04:46.904 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 635429 processed in 143ms
+2024-05-14 02:04:47.892 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 755651 processed in 52ms
+2024-05-14 02:04:48.763 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 397953 processed in 131ms
+2024-05-14 02:04:49.636 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 407109 processed in 110ms
+2024-05-14 02:04:50.898 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 631024 processed in 108ms
+2024-05-14 02:04:52.278 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 301650 processed in 101ms
+2024-05-14 02:04:53.449 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 922309 processed in 30ms
+2024-05-14 02:04:54.368 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 517838 processed in 96ms
+2024-05-14 02:04:55.055 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 738253 processed in 35ms
+2024-05-14 02:04:56.286 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 757262 processed in 172ms
+2024-05-14 02:04:57.587 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 755651 processed in 64ms
+2024-05-14 02:04:58.268 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 912158 processed in 45ms
+2024-05-14 02:04:59.599 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 924747 processed in 99ms
+2024-05-14 02:05:00.649 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 542273 processed in 28ms
+2024-05-14 02:05:01.504 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 621944 processed in 165ms
+2024-05-14 02:05:02.522 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 703268 processed in 123ms
+2024-05-14 02:05:03.479 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 598543 processed in 125ms
+2024-05-14 02:05:04.518 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 259136 processed in 180ms
+2024-05-14 02:05:05.130 WARN 4242 --- [http-nio-8080-exec-1] c.c.orders.client.PaymentClient : Payment gateway slow response: 1998ms for txn 21552
+2024-05-14 02:05:05.905 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 388825 processed in 165ms
+2024-05-14 02:05:06.699 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 911622 processed in 57ms
+2024-05-14 02:05:07.882 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 582952 processed in 85ms
+2024-05-14 02:05:09.213 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 163492 processed in 23ms
+2024-05-14 02:05:10.520 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 427674 processed in 173ms
+2024-05-14 02:05:11.253 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 485420 processed in 167ms
+2024-05-14 02:05:12.435 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 936093 processed in 49ms
+2024-05-14 02:05:13.325 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 600131 processed in 118ms
+2024-05-14 02:05:14.548 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 406591 processed in 91ms
+2024-05-14 02:05:15.196 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 971669 processed in 58ms
+2024-05-14 02:05:16.277 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 494974 processed in 119ms
+2024-05-14 02:05:17.425 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 946705 processed in 135ms
+2024-05-14 02:05:18.252 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 543023 processed in 60ms
+2024-05-14 02:05:19.321 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 951184 processed in 166ms
+2024-05-14 02:05:20.039 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 463701 processed in 156ms
+2024-05-14 02:05:20.707 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 310166 processed in 79ms
+2024-05-14 02:05:21.554 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 842747 processed in 72ms
+2024-05-14 02:05:22.895 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 582048 processed in 158ms
+2024-05-14 02:05:23.565 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 517528 processed in 168ms
+2024-05-14 02:05:24.582 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 599736 processed in 149ms
+2024-05-14 02:05:25.654 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 289470 processed in 94ms
+2024-05-14 02:05:26.544 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 358269 processed in 31ms
+2024-05-14 02:05:27.882 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 489722 processed in 138ms
+2024-05-14 02:05:29.112 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 461676 processed in 91ms
+2024-05-14 02:05:30.127 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 692942 processed in 144ms
+2024-05-14 02:05:31.197 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 546640 processed in 44ms
+2024-05-14 02:05:32.554 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 366333 processed in 29ms
+2024-05-14 02:05:33.425 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 153474 processed in 28ms
+2024-05-14 02:05:34.471 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 727119 processed in 121ms
+2024-05-14 02:05:35.809 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 771752 processed in 42ms
+2024-05-14 02:05:37.174 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 990969 processed in 60ms
+2024-05-14 02:05:38.071 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 280485 processed in 29ms
+2024-05-14 02:05:39.424 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 977886 processed in 32ms
+2024-05-14 02:05:40.230 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 158476 processed in 45ms
+2024-05-14 02:05:40.946 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 718435 processed in 171ms
+2024-05-14 02:05:41.899 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 369495 processed in 119ms
+2024-05-14 02:05:42.598 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 350040 processed in 56ms
+2024-05-14 02:05:43.930 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 937654 processed in 29ms
+2024-05-14 02:05:44.655 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 885475 processed in 55ms
+2024-05-14 02:05:45.878 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 983162 processed in 25ms
+2024-05-14 02:05:46.981 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 963041 processed in 79ms
+2024-05-14 02:05:47.963 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 871817 processed in 34ms
+2024-05-14 02:05:48.707 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 560294 processed in 58ms
+2024-05-14 02:05:49.520 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 384276 processed in 166ms
+2024-05-14 02:05:50.792 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 614858 processed in 47ms
+2024-05-14 02:05:51.646 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 761652 processed in 74ms
+2024-05-14 02:05:52.694 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 481975 processed in 130ms
+2024-05-14 02:05:54.087 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 509096 processed in 94ms
+2024-05-14 02:05:55.020 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 251363 processed in 24ms
+2024-05-14 02:05:55.973 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 564527 processed in 20ms
+2024-05-14 02:05:57.205 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 556392 processed in 30ms
+2024-05-14 02:05:58.534 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 244781 processed in 66ms
+2024-05-14 02:05:59.552 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 729829 processed in 40ms
+2024-05-14 02:06:00.815 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 283834 processed in 72ms
+2024-05-14 02:06:01.525 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 110523 processed in 36ms
+2024-05-14 02:06:02.678 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 643643 processed in 108ms
+2024-05-14 02:06:03.547 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 900043 processed in 142ms
+2024-05-14 02:06:04.253 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 138452 processed in 61ms
+2024-05-14 02:06:05.415 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 473457 processed in 153ms
+2024-05-14 02:06:06.761 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 849301 processed in 82ms
+2024-05-14 02:06:08.014 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 704306 processed in 35ms
+2024-05-14 02:06:08.847 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 568125 processed in 151ms
+2024-05-14 02:06:09.468 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 192889 processed in 77ms
+2024-05-14 02:06:10.563 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 682337 processed in 27ms
+2024-05-14 02:06:11.178 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 648312 processed in 81ms
+2024-05-14 02:06:12.341 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 851931 processed in 65ms
+2024-05-14 02:06:12.977 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 215385 processed in 51ms
+2024-05-14 02:06:13.674 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 338061 processed in 57ms
+2024-05-14 02:06:14.809 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 966138 processed in 24ms
+2024-05-14 02:06:16.159 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 514851 processed in 33ms
+2024-05-14 02:06:17.381 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 850286 processed in 131ms
+2024-05-14 02:06:18.655 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 954634 processed in 122ms
+2024-05-14 02:06:19.933 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 813203 processed in 110ms
+2024-05-14 02:06:20.733 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 482134 processed in 47ms
+2024-05-14 02:06:21.757 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 629294 processed in 25ms
+2024-05-14 02:06:22.538 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 763970 processed in 31ms
+2024-05-14 02:06:23.785 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 811394 processed in 179ms
+2024-05-14 02:06:24.604 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 751436 processed in 45ms
+2024-05-14 02:06:25.404 WARN 4242 --- [http-nio-8080-exec-17] c.c.orders.client.PaymentClient : Payment gateway slow response: 2469ms for txn 15166
+2024-05-14 02:06:26.234 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 226228 processed in 35ms
+2024-05-14 02:06:27.310 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 589073 processed in 171ms
+2024-05-14 02:06:28.337 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 407861 processed in 124ms
+2024-05-14 02:06:29.399 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 876369 processed in 159ms
+2024-05-14 02:06:30.228 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 781949 processed in 118ms
+2024-05-14 02:06:30.989 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 742567 processed in 142ms
+2024-05-14 02:06:31.964 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 332344 processed in 68ms
+2024-05-14 02:06:32.974 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 112455 processed in 110ms
+2024-05-14 02:06:33.704 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 615277 processed in 89ms
+2024-05-14 02:06:34.532 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 266269 processed in 161ms
+2024-05-14 02:06:35.186 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 642109 processed in 119ms
+2024-05-14 02:06:36.453 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 646233 processed in 77ms
+2024-05-14 02:06:37.844 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 247143 processed in 71ms
+2024-05-14 02:06:38.937 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 874652 processed in 141ms
+2024-05-14 02:06:39.752 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 104533 processed in 125ms
+2024-05-14 02:06:40.965 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 699742 processed in 58ms
+2024-05-14 02:06:41.899 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 497999 processed in 135ms
+2024-05-14 02:06:43.053 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 470098 processed in 120ms
+2024-05-14 02:06:44.074 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 107090 processed in 147ms
+2024-05-14 02:06:44.979 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 941956 processed in 57ms
+2024-05-14 02:06:45.927 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 961549 processed in 104ms
+2024-05-14 02:06:46.786 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 314234 processed in 129ms
+2024-05-14 02:06:48.099 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 692376 processed in 147ms
+2024-05-14 02:06:48.939 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 642583 processed in 152ms
+2024-05-14 02:06:50.121 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 142689 processed in 172ms
+2024-05-14 02:06:51.262 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 650762 processed in 78ms
+2024-05-14 02:06:51.941 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 297356 processed in 127ms
+2024-05-14 02:06:52.931 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 825172 processed in 155ms
+2024-05-14 02:06:54.128 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 484468 processed in 39ms
+2024-05-14 02:06:55.389 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 823399 processed in 107ms
+2024-05-14 02:06:56.645 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 761757 processed in 60ms
+2024-05-14 02:06:57.664 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 532285 processed in 66ms
+2024-05-14 02:06:58.312 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 697548 processed in 30ms
+2024-05-14 02:06:59.466 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 845157 processed in 161ms
+2024-05-14 02:07:00.069 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 714675 processed in 23ms
+2024-05-14 02:07:01.203 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 778230 processed in 156ms
+2024-05-14 02:07:02.215 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 730972 processed in 51ms
+2024-05-14 02:07:02.931 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 130444 processed in 45ms
+2024-05-14 02:07:03.592 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 742781 processed in 130ms
+2024-05-14 02:07:04.837 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 250918 processed in 80ms
+2024-05-14 02:07:05.720 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 710542 processed in 36ms
+2024-05-14 02:07:06.599 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 157334 processed in 76ms
+2024-05-14 02:07:07.912 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 560997 processed in 33ms
+2024-05-14 02:07:09.008 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 715511 processed in 64ms
+2024-05-14 02:07:09.860 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 619623 processed in 37ms
+2024-05-14 02:07:10.654 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 533580 processed in 99ms
+2024-05-14 02:07:11.573 ERROR 4242 --- [http-nio-8080-exec-16] c.c.orders.client.PaymentClient : Payment call failed for order 355213
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:07:12.243 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 108002 processed in 94ms
+2024-05-14 02:07:13.160 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 452196 processed in 123ms
+2024-05-14 02:07:14.281 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 680744 processed in 82ms
+2024-05-14 02:07:15.191 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 556735 processed in 28ms
+2024-05-14 02:07:16.014 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 353545 processed in 53ms
+2024-05-14 02:07:16.688 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 681934 processed in 133ms
+2024-05-14 02:07:17.662 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 326991 processed in 123ms
+2024-05-14 02:07:18.563 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 629352 processed in 72ms
+2024-05-14 02:07:19.345 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 724902 processed in 132ms
+2024-05-14 02:07:20.415 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 737747 processed in 150ms
+2024-05-14 02:07:21.185 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 668949 processed in 89ms
+2024-05-14 02:07:22.374 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 425885 processed in 23ms
+2024-05-14 02:07:23.286 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 436631 processed in 68ms
+2024-05-14 02:07:24.416 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 944292 processed in 148ms
+2024-05-14 02:07:25.623 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 192211 processed in 77ms
+2024-05-14 02:07:26.454 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 985379 processed in 138ms
+2024-05-14 02:07:27.674 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 131010 processed in 113ms
+2024-05-14 02:07:28.818 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 791078 processed in 138ms
+2024-05-14 02:07:29.616 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 290481 processed in 94ms
+2024-05-14 02:07:30.308 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 524319 processed in 30ms
+2024-05-14 02:07:31.395 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 263776 processed in 117ms
+2024-05-14 02:07:32.586 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 691973 processed in 78ms
+2024-05-14 02:07:33.642 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 802686 processed in 167ms
+2024-05-14 02:07:34.521 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 145046 processed in 169ms
+2024-05-14 02:07:35.607 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 138934 processed in 101ms
+2024-05-14 02:07:36.375 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 537503 processed in 120ms
+2024-05-14 02:07:37.774 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 652939 processed in 43ms
+2024-05-14 02:07:38.653 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 825216 processed in 148ms
+2024-05-14 02:07:39.844 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 549157 processed in 151ms
+2024-05-14 02:07:41.121 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 145813 processed in 163ms
+2024-05-14 02:07:41.930 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 670353 processed in 86ms
+2024-05-14 02:07:42.730 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 531633 processed in 43ms
+2024-05-14 02:07:43.491 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 802896 processed in 143ms
+2024-05-14 02:07:44.281 WARN 4242 --- [http-nio-8080-exec-8] c.c.orders.client.PaymentClient : Payment gateway slow response: 3322ms for txn 27445
+2024-05-14 02:07:45.630 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 842093 processed in 56ms
+2024-05-14 02:07:46.700 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 674892 processed in 128ms
+2024-05-14 02:07:47.908 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 727764 processed in 138ms
+2024-05-14 02:07:49.180 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 823654 processed in 94ms
+2024-05-14 02:07:49.790 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 394527 processed in 97ms
+2024-05-14 02:07:50.548 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 269155 processed in 103ms
+2024-05-14 02:07:51.504 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 684614 processed in 38ms
+2024-05-14 02:07:52.140 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 188050 processed in 104ms
+2024-05-14 02:07:53.524 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 555334 processed in 145ms
+2024-05-14 02:07:54.276 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 195386 processed in 93ms
+2024-05-14 02:07:55.378 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 245387 processed in 27ms
+2024-05-14 02:07:55.999 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 485758 processed in 67ms
+2024-05-14 02:07:57.368 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 207140 processed in 99ms
+2024-05-14 02:07:58.562 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 435707 processed in 78ms
+2024-05-14 02:07:59.457 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 351007 processed in 34ms
+2024-05-14 02:08:00.090 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 153002 processed in 75ms
+2024-05-14 02:08:01.085 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 731898 processed in 168ms
+2024-05-14 02:08:02.187 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 245018 processed in 133ms
+2024-05-14 02:08:03.296 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 991991 processed in 132ms
+2024-05-14 02:08:04.280 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 133576 processed in 176ms
+2024-05-14 02:08:05.564 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 175491 processed in 34ms
+2024-05-14 02:08:06.575 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 560003 processed in 22ms
+2024-05-14 02:08:07.708 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 497224 processed in 95ms
+2024-05-14 02:08:08.312 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 591612 processed in 41ms
+2024-05-14 02:08:09.346 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 520863 processed in 175ms
+2024-05-14 02:08:10.442 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 738738 processed in 96ms
+2024-05-14 02:08:11.494 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 788387 processed in 55ms
+2024-05-14 02:08:12.333 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 989307 processed in 68ms
+2024-05-14 02:08:13.111 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 792565 processed in 168ms
+2024-05-14 02:08:14.009 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 655722 processed in 81ms
+2024-05-14 02:08:15.061 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 289269 processed in 71ms
+2024-05-14 02:08:16.099 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 781232 processed in 44ms
+2024-05-14 02:08:16.849 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 680933 processed in 137ms
+2024-05-14 02:08:17.630 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 992901 processed in 124ms
+2024-05-14 02:08:18.774 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 757032 processed in 151ms
+2024-05-14 02:08:19.456 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 690383 processed in 141ms
+2024-05-14 02:08:20.676 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 523998 processed in 80ms
+2024-05-14 02:08:21.313 WARN 4242 --- [http-nio-8080-exec-2] c.c.orders.client.PaymentClient : Payment gateway slow response: 3934ms for txn 37935
+2024-05-14 02:08:22.281 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 191965 processed in 179ms
+2024-05-14 02:08:23.672 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 276166 processed in 113ms
+2024-05-14 02:08:24.868 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 965736 processed in 85ms
+2024-05-14 02:08:25.567 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 856840 processed in 145ms
+2024-05-14 02:08:26.201 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 675493 processed in 103ms
+2024-05-14 02:08:27.444 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 366969 processed in 110ms
+2024-05-14 02:08:28.198 ERROR 4242 --- [http-nio-8080-exec-15] c.c.orders.client.PaymentClient : Payment call failed for order 709613
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:08:29.150 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 939587 processed in 86ms
+2024-05-14 02:08:29.899 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 976826 processed in 56ms
+2024-05-14 02:08:30.969 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 565661 processed in 23ms
+2024-05-14 02:08:31.589 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 133177 processed in 29ms
+2024-05-14 02:08:32.249 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 983906 processed in 141ms
+2024-05-14 02:08:33.623 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 478465 processed in 104ms
+2024-05-14 02:08:34.645 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 321648 processed in 63ms
+2024-05-14 02:08:35.901 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 506723 processed in 110ms
+2024-05-14 02:08:36.752 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 337625 processed in 25ms
+2024-05-14 02:08:37.551 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 862276 processed in 56ms
+2024-05-14 02:08:38.369 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 474167 processed in 165ms
+2024-05-14 02:08:39.428 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 687861 processed in 44ms
+2024-05-14 02:08:40.726 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 480539 processed in 92ms
+2024-05-14 02:08:41.960 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 814430 processed in 38ms
+2024-05-14 02:08:42.804 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 467452 processed in 160ms
+2024-05-14 02:08:43.976 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 804384 processed in 102ms
+2024-05-14 02:08:45.283 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 948526 processed in 80ms
+2024-05-14 02:08:46.680 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 804009 processed in 136ms
+2024-05-14 02:08:47.604 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 277124 processed in 170ms
+2024-05-14 02:08:48.257 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 861952 processed in 166ms
+2024-05-14 02:08:49.298 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 711680 processed in 40ms
+2024-05-14 02:08:50.366 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 474317 processed in 129ms
+2024-05-14 02:08:51.543 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 283745 processed in 90ms
+2024-05-14 02:08:52.862 ERROR 4242 --- [http-nio-8080-exec-18] c.c.orders.client.PaymentClient : Payment call failed for order 272559
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:08:53.963 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 150011 processed in 122ms
+2024-05-14 02:08:54.921 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 306266 processed in 81ms
+2024-05-14 02:08:56.108 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 177012 processed in 167ms
+2024-05-14 02:08:56.981 WARN 4242 --- [http-nio-8080-exec-5] c.c.orders.client.PaymentClient : Payment gateway slow response: 2608ms for txn 80377
+2024-05-14 02:08:58.095 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 322535 processed in 102ms
+2024-05-14 02:08:58.956 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 739407 processed in 106ms
+2024-05-14 02:08:59.696 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 756734 processed in 176ms
+2024-05-14 02:09:00.564 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 369502 processed in 138ms
+2024-05-14 02:09:01.862 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 158738 processed in 126ms
+2024-05-14 02:09:02.954 ERROR 4242 --- [http-nio-8080-exec-11] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:02.954 ERROR 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Failed to create order 119504
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:03.678 ERROR 4242 --- [http-nio-8080-exec-5] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:03.678 ERROR 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Failed to create order 981440
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:04.350 ERROR 4242 --- [http-nio-8080-exec-12] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:04.350 ERROR 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Failed to create order 664826
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:05.494 ERROR 4242 --- [http-nio-8080-exec-18] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:05.494 ERROR 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Failed to create order 730790
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:06.554 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 952968 processed in 142ms
+2024-05-14 02:09:07.765 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 686468 processed in 91ms
+2024-05-14 02:09:08.654 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 365201 processed in 22ms
+2024-05-14 02:09:09.701 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 257908 processed in 180ms
+2024-05-14 02:09:10.483 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 228159 processed in 35ms
+2024-05-14 02:09:11.518 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 371699 processed in 175ms
+2024-05-14 02:09:12.410 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 654170 processed in 27ms
+2024-05-14 02:09:13.291 ERROR 4242 --- [http-nio-8080-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:13.291 ERROR 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Failed to create order 623173
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:14.062 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 582448 processed in 74ms
+2024-05-14 02:09:14.921 ERROR 4242 --- [http-nio-8080-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:14.921 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Failed to create order 869010
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:15.533 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 162899 processed in 78ms
+2024-05-14 02:09:16.584 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 788964 processed in 180ms
+2024-05-14 02:09:17.873 ERROR 4242 --- [http-nio-8080-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:17.873 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Failed to create order 375063
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:19.040 ERROR 4242 --- [http-nio-8080-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:19.040 ERROR 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Failed to create order 313076
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:19.901 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 622821 processed in 75ms
+2024-05-14 02:09:21.286 ERROR 4242 --- [http-nio-8080-exec-6] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:21.286 ERROR 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Failed to create order 906566
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:22.100 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 192728 processed in 104ms
+2024-05-14 02:09:22.703 ERROR 4242 --- [http-nio-8080-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:22.703 ERROR 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Failed to create order 815939
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:23.791 ERROR 4242 --- [http-nio-8080-exec-15] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:23.791 ERROR 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Failed to create order 154660
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:25.097 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 148432 processed in 132ms
+2024-05-14 02:09:25.843 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 818436 processed in 26ms
+2024-05-14 02:09:27.087 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 239863 processed in 97ms
+2024-05-14 02:09:27.808 ERROR 4242 --- [http-nio-8080-exec-12] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:27.808 ERROR 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Failed to create order 276938
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:28.779 ERROR 4242 --- [http-nio-8080-exec-13] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:28.779 ERROR 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Failed to create order 456033
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:29.893 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 713704 processed in 80ms
+2024-05-14 02:09:30.654 ERROR 4242 --- [http-nio-8080-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:30.654 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Failed to create order 629301
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:31.730 ERROR 4242 --- [http-nio-8080-exec-19] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:31.730 ERROR 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Failed to create order 209962
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:32.913 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 167692 processed in 48ms
+2024-05-14 02:09:33.610 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 102695 processed in 65ms
+2024-05-14 02:09:34.389 ERROR 4242 --- [http-nio-8080-exec-18] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:34.389 ERROR 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Failed to create order 874070
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:35.425 ERROR 4242 --- [http-nio-8080-exec-4] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:35.425 ERROR 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Failed to create order 980356
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:36.422 ERROR 4242 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:36.422 ERROR 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Failed to create order 325587
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:37.705 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 837759 processed in 65ms
+2024-05-14 02:09:38.317 ERROR 4242 --- [http-nio-8080-exec-9] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:38.317 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Failed to create order 145290
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:39.074 ERROR 4242 --- [http-nio-8080-exec-2] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:39.074 ERROR 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Failed to create order 683658
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:40.436 ERROR 4242 --- [http-nio-8080-exec-9] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:40.436 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Failed to create order 821571
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:41.069 ERROR 4242 --- [http-nio-8080-exec-15] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:41.069 ERROR 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Failed to create order 675469
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:41.933 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 518678 processed in 128ms
+2024-05-14 02:09:42.788 ERROR 4242 --- [http-nio-8080-exec-14] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:42.788 ERROR 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Failed to create order 258582
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:43.698 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 765824 processed in 21ms
+2024-05-14 02:09:44.489 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 827360 processed in 176ms
+2024-05-14 02:09:45.673 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 191030 processed in 178ms
+2024-05-14 02:09:46.900 ERROR 4242 --- [http-nio-8080-exec-2] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:46.900 ERROR 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Failed to create order 685649
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:47.759 ERROR 4242 --- [http-nio-8080-exec-15] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:47.759 ERROR 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Failed to create order 430947
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:48.724 ERROR 4242 --- [http-nio-8080-exec-19] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:48.724 ERROR 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Failed to create order 882454
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:49.842 ERROR 4242 --- [http-nio-8080-exec-16] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:49.842 ERROR 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Failed to create order 721065
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:50.879 ERROR 4242 --- [http-nio-8080-exec-13] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:50.879 ERROR 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Failed to create order 760092
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:52.112 ERROR 4242 --- [http-nio-8080-exec-13] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:52.112 ERROR 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Failed to create order 167232
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:53.027 ERROR 4242 --- [http-nio-8080-exec-17] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:53.027 ERROR 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Failed to create order 791641
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:54.168 ERROR 4242 --- [http-nio-8080-exec-11] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:54.168 ERROR 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Failed to create order 936047
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:55.203 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 375018 processed in 141ms
+2024-05-14 02:09:56.489 ERROR 4242 --- [http-nio-8080-exec-12] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:56.489 ERROR 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Failed to create order 599770
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:57.546 ERROR 4242 --- [http-nio-8080-exec-5] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:57.546 ERROR 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Failed to create order 894041
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:58.569 ERROR 4242 --- [http-nio-8080-exec-17] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:09:58.569 ERROR 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Failed to create order 277348
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:09:59.819 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 961808 processed in 137ms
+2024-05-14 02:10:00.561 ERROR 4242 --- [http-nio-8080-exec-2] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:00.561 ERROR 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Failed to create order 479335
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:01.827 ERROR 4242 --- [http-nio-8080-exec-14] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:01.827 ERROR 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Failed to create order 261317
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:02.989 ERROR 4242 --- [http-nio-8080-exec-13] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:02.989 ERROR 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Failed to create order 473971
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:04.120 ERROR 4242 --- [http-nio-8080-exec-17] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:04.120 ERROR 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Failed to create order 574800
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:05.249 ERROR 4242 --- [http-nio-8080-exec-9] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:05.249 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Failed to create order 567876
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:06.405 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 895662 processed in 152ms
+2024-05-14 02:10:07.125 ERROR 4242 --- [http-nio-8080-exec-5] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:07.125 ERROR 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Failed to create order 645986
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:08.254 ERROR 4242 --- [http-nio-8080-exec-20] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:08.254 ERROR 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Failed to create order 456615
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:09.495 ERROR 4242 --- [http-nio-8080-exec-9] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:09.495 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Failed to create order 310609
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:10.095 ERROR 4242 --- [http-nio-8080-exec-9] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:10.095 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Failed to create order 287096
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:10.941 ERROR 4242 --- [http-nio-8080-exec-18] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:10.941 ERROR 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Failed to create order 439753
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:11.745 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 650687 processed in 146ms
+2024-05-14 02:10:13.032 ERROR 4242 --- [http-nio-8080-exec-7] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:13.032 ERROR 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Failed to create order 930800
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:13.865 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 493977 processed in 113ms
+2024-05-14 02:10:14.498 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 779672 processed in 175ms
+2024-05-14 02:10:15.747 ERROR 4242 --- [http-nio-8080-exec-12] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:15.747 ERROR 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Failed to create order 990972
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:16.810 ERROR 4242 --- [http-nio-8080-exec-20] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:16.810 ERROR 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Failed to create order 993084
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:17.979 ERROR 4242 --- [http-nio-8080-exec-12] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:17.979 ERROR 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Failed to create order 312996
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:18.843 ERROR 4242 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:18.843 ERROR 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Failed to create order 567159
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:19.746 ERROR 4242 --- [http-nio-8080-exec-17] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:19.746 ERROR 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Failed to create order 774227
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:20.952 ERROR 4242 --- [http-nio-8080-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:20.952 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Failed to create order 690861
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:21.922 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 535046 processed in 141ms
+2024-05-14 02:10:22.663 ERROR 4242 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:22.663 ERROR 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Failed to create order 615134
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:23.371 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 521189 processed in 158ms
+2024-05-14 02:10:24.004 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 907275 processed in 137ms
+2024-05-14 02:10:24.698 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 206646 processed in 147ms
+2024-05-14 02:10:25.369 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 964019 processed in 71ms
+2024-05-14 02:10:26.538 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 984596 processed in 169ms
+2024-05-14 02:10:27.250 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 436056 processed in 105ms
+2024-05-14 02:10:28.002 ERROR 4242 --- [http-nio-8080-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:28.002 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Failed to create order 665061
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:28.822 ERROR 4242 --- [http-nio-8080-exec-9] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:28.822 ERROR 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Failed to create order 502364
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:29.626 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 814146 processed in 33ms
+2024-05-14 02:10:30.471 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 998253 processed in 158ms
+2024-05-14 02:10:31.277 ERROR 4242 --- [http-nio-8080-exec-7] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:31.277 ERROR 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Failed to create order 317586
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:32.306 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 844357 processed in 169ms
+2024-05-14 02:10:33.019 ERROR 4242 --- [http-nio-8080-exec-11] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:33.019 ERROR 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Failed to create order 841256
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:34.064 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 658973 processed in 37ms
+2024-05-14 02:10:34.991 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 386845 processed in 76ms
+2024-05-14 02:10:36.228 ERROR 4242 --- [http-nio-8080-exec-10] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:36.228 ERROR 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Failed to create order 319534
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:37.470 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 863161 processed in 133ms
+2024-05-14 02:10:38.233 ERROR 4242 --- [http-nio-8080-exec-7] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:38.233 ERROR 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Failed to create order 554789
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:39.520 ERROR 4242 --- [http-nio-8080-exec-4] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:39.520 ERROR 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Failed to create order 175422
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:40.771 ERROR 4242 --- [http-nio-8080-exec-16] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:40.771 ERROR 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Failed to create order 856314
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:41.820 ERROR 4242 --- [http-nio-8080-exec-6] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:41.820 ERROR 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Failed to create order 806584
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:42.996 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 252856 processed in 72ms
+2024-05-14 02:10:44.009 ERROR 4242 --- [http-nio-8080-exec-15] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:44.009 ERROR 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Failed to create order 922348
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:44.683 ERROR 4242 --- [http-nio-8080-exec-2] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:44.683 ERROR 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Failed to create order 790886
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:45.949 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 159417 processed in 54ms
+2024-05-14 02:10:46.583 ERROR 4242 --- [http-nio-8080-exec-15] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:46.583 ERROR 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Failed to create order 343969
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:47.883 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 424604 processed in 86ms
+2024-05-14 02:10:48.742 ERROR 4242 --- [http-nio-8080-exec-7] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:48.742 ERROR 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Failed to create order 938202
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:49.874 ERROR 4242 --- [http-nio-8080-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:49.874 ERROR 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Failed to create order 134542
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:50.737 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 786637 processed in 159ms
+2024-05-14 02:10:51.892 ERROR 4242 --- [http-nio-8080-exec-7] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:51.892 ERROR 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Failed to create order 863614
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:52.639 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 140697 processed in 110ms
+2024-05-14 02:10:53.337 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 404882 processed in 145ms
+2024-05-14 02:10:54.215 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 310249 processed in 144ms
+2024-05-14 02:10:55.039 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 311104 processed in 55ms
+2024-05-14 02:10:56.015 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 133977 processed in 168ms
+2024-05-14 02:10:57.095 ERROR 4242 --- [http-nio-8080-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:57.095 ERROR 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Failed to create order 259608
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:58.220 ERROR 4242 --- [http-nio-8080-exec-2] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:58.220 ERROR 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Failed to create order 467242
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:59.179 ERROR 4242 --- [http-nio-8080-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper : HikariPool-1 - Connection is not available, request timed out after 30000ms.
+2024-05-14 02:10:59.179 ERROR 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Failed to create order 481735
+org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:466)
+Caused by: java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30000ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:696)
+2024-05-14 02:10:59.923 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 200315 processed in 161ms
+2024-05-14 02:11:00.613 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 137642 processed in 28ms
+2024-05-14 02:11:01.245 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 535500 processed in 167ms
+2024-05-14 02:11:02.514 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 476897 processed in 63ms
+2024-05-14 02:11:03.645 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 418120 processed in 58ms
+2024-05-14 02:11:04.454 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 260511 processed in 147ms
+2024-05-14 02:11:05.270 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 357918 processed in 61ms
+2024-05-14 02:11:06.325 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 307317 processed in 92ms
+2024-05-14 02:11:07.248 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 861875 processed in 156ms
+2024-05-14 02:11:08.249 WARN 4242 --- [http-nio-8080-exec-4] c.c.orders.client.PaymentClient : Payment gateway slow response: 1719ms for txn 74015
+2024-05-14 02:11:09.482 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 191268 processed in 63ms
+2024-05-14 02:11:10.205 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 512370 processed in 179ms
+2024-05-14 02:11:11.220 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 188422 processed in 168ms
+2024-05-14 02:11:11.994 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 961264 processed in 82ms
+2024-05-14 02:11:12.652 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 325338 processed in 178ms
+2024-05-14 02:11:13.871 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 188083 processed in 138ms
+2024-05-14 02:11:14.944 WARN 4242 --- [http-nio-8080-exec-6] c.c.orders.client.PaymentClient : Payment gateway slow response: 3187ms for txn 63360
+2024-05-14 02:11:15.570 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 258580 processed in 108ms
+2024-05-14 02:11:16.786 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 819361 processed in 104ms
+2024-05-14 02:11:17.953 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 139561 processed in 147ms
+2024-05-14 02:11:18.973 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 308707 processed in 180ms
+2024-05-14 02:11:19.614 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 782566 processed in 109ms
+2024-05-14 02:11:20.680 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 241496 processed in 86ms
+2024-05-14 02:11:21.943 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 972894 processed in 171ms
+2024-05-14 02:11:22.674 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.service.OrderService : Order 884360 processed in 171ms
+2024-05-14 02:11:23.700 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 887181 processed in 79ms
+2024-05-14 02:11:24.492 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 616550 processed in 167ms
+2024-05-14 02:11:25.818 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 932198 processed in 180ms
+2024-05-14 02:11:26.965 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 191329 processed in 78ms
+2024-05-14 02:11:28.087 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 931467 processed in 98ms
+2024-05-14 02:11:28.690 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 951853 processed in 141ms
+2024-05-14 02:11:29.625 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 451710 processed in 159ms
+2024-05-14 02:11:30.396 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 749358 processed in 28ms
+2024-05-14 02:11:31.230 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 835237 processed in 133ms
+2024-05-14 02:11:32.156 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 326830 processed in 180ms
+2024-05-14 02:11:32.789 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 258234 processed in 112ms
+2024-05-14 02:11:33.523 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 423557 processed in 147ms
+2024-05-14 02:11:34.378 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 998361 processed in 61ms
+2024-05-14 02:11:35.290 WARN 4242 --- [http-nio-8080-exec-1] c.c.orders.client.PaymentClient : Payment gateway slow response: 2218ms for txn 23597
+2024-05-14 02:11:36.646 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 872366 processed in 110ms
+2024-05-14 02:11:37.787 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 241592 processed in 84ms
+2024-05-14 02:11:38.920 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 565669 processed in 88ms
+2024-05-14 02:11:40.287 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 647546 processed in 35ms
+2024-05-14 02:11:41.612 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 159747 processed in 50ms
+2024-05-14 02:11:42.658 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 864266 processed in 175ms
+2024-05-14 02:11:43.858 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 243647 processed in 21ms
+2024-05-14 02:11:45.221 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 511271 processed in 64ms
+2024-05-14 02:11:46.418 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 405315 processed in 159ms
+2024-05-14 02:11:47.039 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.web.OrderController : Order 944002 processed in 117ms
+2024-05-14 02:11:48.034 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 439950 processed in 61ms
+2024-05-14 02:11:49.300 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 246679 processed in 71ms
+2024-05-14 02:11:50.313 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 814507 processed in 99ms
+2024-05-14 02:11:51.639 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 914825 processed in 112ms
+2024-05-14 02:11:53.009 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 306937 processed in 178ms
+2024-05-14 02:11:53.866 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 479365 processed in 120ms
+2024-05-14 02:11:54.721 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 752983 processed in 135ms
+2024-05-14 02:11:55.722 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 146081 processed in 58ms
+2024-05-14 02:11:56.545 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 889191 processed in 39ms
+2024-05-14 02:11:57.366 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 655056 processed in 93ms
+2024-05-14 02:11:58.647 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 143337 processed in 156ms
+2024-05-14 02:11:59.908 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 378419 processed in 82ms
+2024-05-14 02:12:01.217 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 974931 processed in 48ms
+2024-05-14 02:12:02.561 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 912237 processed in 123ms
+2024-05-14 02:12:03.477 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 944871 processed in 106ms
+2024-05-14 02:12:04.356 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 657624 processed in 153ms
+2024-05-14 02:12:05.287 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.service.OrderService : Order 815029 processed in 36ms
+2024-05-14 02:12:06.627 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 705891 processed in 130ms
+2024-05-14 02:12:07.550 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 258498 processed in 76ms
+2024-05-14 02:12:08.687 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 135097 processed in 117ms
+2024-05-14 02:12:09.990 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 742098 processed in 90ms
+2024-05-14 02:12:11.160 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 737198 processed in 74ms
+2024-05-14 02:12:12.483 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 477189 processed in 25ms
+2024-05-14 02:12:13.642 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 329000 processed in 20ms
+2024-05-14 02:12:14.608 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 567351 processed in 171ms
+2024-05-14 02:12:15.652 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 215915 processed in 143ms
+2024-05-14 02:12:16.432 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 328443 processed in 162ms
+2024-05-14 02:12:17.667 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 333818 processed in 64ms
+2024-05-14 02:12:18.289 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 166119 processed in 90ms
+2024-05-14 02:12:19.469 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 636961 processed in 170ms
+2024-05-14 02:12:20.396 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 789780 processed in 84ms
+2024-05-14 02:12:21.053 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 576021 processed in 178ms
+2024-05-14 02:12:22.017 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 522447 processed in 62ms
+2024-05-14 02:12:22.843 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 559920 processed in 70ms
+2024-05-14 02:12:24.075 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 687482 processed in 95ms
+2024-05-14 02:12:25.273 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 165776 processed in 110ms
+2024-05-14 02:12:26.038 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 684846 processed in 110ms
+2024-05-14 02:12:27.140 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 420599 processed in 46ms
+2024-05-14 02:12:27.775 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 130812 processed in 136ms
+2024-05-14 02:12:28.994 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 481552 processed in 140ms
+2024-05-14 02:12:29.982 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 599376 processed in 52ms
+2024-05-14 02:12:31.262 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 319455 processed in 110ms
+2024-05-14 02:12:32.064 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 844714 processed in 91ms
+2024-05-14 02:12:33.420 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 268773 processed in 131ms
+2024-05-14 02:12:34.127 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 128944 processed in 22ms
+2024-05-14 02:12:35.378 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 313866 processed in 166ms
+2024-05-14 02:12:36.405 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 754920 processed in 163ms
+2024-05-14 02:12:37.713 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 107693 processed in 82ms
+2024-05-14 02:12:38.477 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 202822 processed in 171ms
+2024-05-14 02:12:39.779 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 898690 processed in 37ms
+2024-05-14 02:12:40.835 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 519656 processed in 81ms
+2024-05-14 02:12:42.009 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 735326 processed in 56ms
+2024-05-14 02:12:42.703 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 833725 processed in 81ms
+2024-05-14 02:12:43.943 WARN 4242 --- [http-nio-8080-exec-8] c.c.orders.client.PaymentClient : Payment gateway slow response: 3818ms for txn 39383
+2024-05-14 02:12:45.050 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 941713 processed in 20ms
+2024-05-14 02:12:45.681 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 913001 processed in 31ms
+2024-05-14 02:12:47.025 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.service.OrderService : Order 143330 processed in 59ms
+2024-05-14 02:12:48.000 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 896406 processed in 44ms
+2024-05-14 02:12:48.749 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 210934 processed in 150ms
+2024-05-14 02:12:49.979 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 175642 processed in 27ms
+2024-05-14 02:12:51.023 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 840221 processed in 33ms
+2024-05-14 02:12:52.153 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 803283 processed in 21ms
+2024-05-14 02:12:53.200 ERROR 4242 --- [http-nio-8080-exec-7] c.c.orders.client.PaymentClient : Payment call failed for order 969964
+java.net.SocketTimeoutException: Read timed out
+2024-05-14 02:12:54.206 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 804359 processed in 129ms
+2024-05-14 02:12:55.593 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 810569 processed in 44ms
+2024-05-14 02:12:56.263 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 194144 processed in 114ms
+2024-05-14 02:12:57.082 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 618139 processed in 175ms
+2024-05-14 02:12:58.143 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 182684 processed in 39ms
+2024-05-14 02:12:58.778 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 577755 processed in 124ms
+2024-05-14 02:13:00.117 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 122615 processed in 35ms
+2024-05-14 02:13:01.290 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 991266 processed in 130ms
+2024-05-14 02:13:02.531 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 563196 processed in 85ms
+2024-05-14 02:13:03.696 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 129730 processed in 103ms
+2024-05-14 02:13:04.602 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 899362 processed in 179ms
+2024-05-14 02:13:05.872 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 113799 processed in 125ms
+2024-05-14 02:13:06.902 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 955709 processed in 104ms
+2024-05-14 02:13:07.503 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 657859 processed in 61ms
+2024-05-14 02:13:08.187 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.service.OrderService : Order 484959 processed in 36ms
+2024-05-14 02:13:09.217 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 781511 processed in 157ms
+2024-05-14 02:13:10.013 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 779261 processed in 74ms
+2024-05-14 02:13:10.788 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 850578 processed in 50ms
+2024-05-14 02:13:12.179 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 824186 processed in 92ms
+2024-05-14 02:13:13.382 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 196220 processed in 73ms
+2024-05-14 02:13:14.495 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 787987 processed in 37ms
+2024-05-14 02:13:15.573 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 865039 processed in 37ms
+2024-05-14 02:13:16.602 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 684370 processed in 48ms
+2024-05-14 02:13:17.780 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 906811 processed in 135ms
+2024-05-14 02:13:18.522 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 528807 processed in 64ms
+2024-05-14 02:13:19.478 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 458975 processed in 102ms
+2024-05-14 02:13:20.744 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 211752 processed in 73ms
+2024-05-14 02:13:21.986 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 986731 processed in 68ms
+2024-05-14 02:13:22.644 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 793339 processed in 87ms
+2024-05-14 02:13:23.388 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 501616 processed in 85ms
+2024-05-14 02:13:24.510 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 167946 processed in 95ms
+2024-05-14 02:13:25.122 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 481297 processed in 158ms
+2024-05-14 02:13:26.300 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.service.OrderService : Order 488478 processed in 113ms
+2024-05-14 02:13:27.033 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 399137 processed in 117ms
+2024-05-14 02:13:28.379 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 329658 processed in 118ms
+2024-05-14 02:13:29.662 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 375692 processed in 21ms
+2024-05-14 02:13:30.302 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 395531 processed in 27ms
+2024-05-14 02:13:31.280 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.service.OrderService : Order 682272 processed in 145ms
+2024-05-14 02:13:31.955 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 341955 processed in 129ms
+2024-05-14 02:13:32.907 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 478684 processed in 133ms
+2024-05-14 02:13:33.883 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 634055 processed in 76ms
+2024-05-14 02:13:34.870 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 215393 processed in 35ms
+2024-05-14 02:13:36.225 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 635281 processed in 100ms
+2024-05-14 02:13:36.995 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 583324 processed in 53ms
+2024-05-14 02:13:37.654 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 315307 processed in 91ms
+2024-05-14 02:13:38.785 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 604973 processed in 85ms
+2024-05-14 02:13:39.529 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 774825 processed in 140ms
+2024-05-14 02:13:40.678 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 910091 processed in 147ms
+2024-05-14 02:13:41.810 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 506173 processed in 102ms
+2024-05-14 02:13:43.002 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.web.OrderController : Order 833757 processed in 78ms
+2024-05-14 02:13:43.614 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.web.OrderController : Order 571209 processed in 75ms
+2024-05-14 02:13:44.895 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 980033 processed in 69ms
+2024-05-14 02:13:45.738 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 521519 processed in 26ms
+2024-05-14 02:13:46.881 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 344423 processed in 36ms
+2024-05-14 02:13:47.863 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 805263 processed in 74ms
+2024-05-14 02:13:48.960 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 311716 processed in 99ms
+2024-05-14 02:13:50.360 INFO 4242 --- [http-nio-8080-exec-15] c.c.orders.service.OrderService : Order 133310 processed in 124ms
+2024-05-14 02:13:51.102 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 696206 processed in 115ms
+2024-05-14 02:13:52.318 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 262331 processed in 175ms
+2024-05-14 02:13:53.567 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.service.OrderService : Order 244377 processed in 86ms
+2024-05-14 02:13:54.359 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 256394 processed in 55ms
+2024-05-14 02:13:55.758 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 275896 processed in 79ms
+2024-05-14 02:13:56.696 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 928391 processed in 124ms
+2024-05-14 02:13:57.499 INFO 4242 --- [http-nio-8080-exec-19] c.c.orders.web.OrderController : Order 880639 processed in 88ms
+2024-05-14 02:13:58.873 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 959412 processed in 46ms
+2024-05-14 02:14:00.247 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 245093 processed in 127ms
+2024-05-14 02:14:00.906 INFO 4242 --- [http-nio-8080-exec-13] c.c.orders.web.OrderController : Order 567953 processed in 82ms
+2024-05-14 02:14:01.906 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 647249 processed in 162ms
+2024-05-14 02:14:02.660 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 698018 processed in 117ms
+2024-05-14 02:14:03.405 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 484059 processed in 154ms
+2024-05-14 02:14:04.211 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 754574 processed in 140ms
+2024-05-14 02:14:04.981 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 566508 processed in 141ms
+2024-05-14 02:14:05.853 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 923856 processed in 79ms
+2024-05-14 02:14:07.235 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 668897 processed in 124ms
+2024-05-14 02:14:08.156 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 488818 processed in 112ms
+2024-05-14 02:14:09.060 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 333380 processed in 75ms
+2024-05-14 02:14:10.363 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.web.OrderController : Order 525868 processed in 177ms
+2024-05-14 02:14:11.300 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 448165 processed in 167ms
+2024-05-14 02:14:12.334 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 429771 processed in 64ms
+2024-05-14 02:14:13.583 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.web.OrderController : Order 513169 processed in 114ms
+2024-05-14 02:14:14.277 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 765412 processed in 83ms
+2024-05-14 02:14:15.441 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.service.OrderService : Order 780235 processed in 85ms
+2024-05-14 02:14:16.172 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 307950 processed in 23ms
+2024-05-14 02:14:17.248 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 130470 processed in 37ms
+2024-05-14 02:14:18.487 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.web.OrderController : Order 104126 processed in 64ms
+2024-05-14 02:14:19.271 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 120255 processed in 26ms
+2024-05-14 02:14:19.962 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 592694 processed in 105ms
+2024-05-14 02:14:20.621 INFO 4242 --- [http-nio-8080-exec-12] c.c.orders.service.OrderService : Order 883833 processed in 142ms
+2024-05-14 02:14:21.921 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 376810 processed in 61ms
+2024-05-14 02:14:22.733 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.service.OrderService : Order 238165 processed in 104ms
+2024-05-14 02:14:23.607 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 887765 processed in 59ms
+2024-05-14 02:14:24.878 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.web.OrderController : Order 340557 processed in 99ms
+2024-05-14 02:14:26.115 INFO 4242 --- [http-nio-8080-exec-16] c.c.orders.web.OrderController : Order 300588 processed in 135ms
+2024-05-14 02:14:27.359 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.service.OrderService : Order 692474 processed in 131ms
+2024-05-14 02:14:28.069 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 213136 processed in 137ms
+2024-05-14 02:14:28.862 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.service.OrderService : Order 859618 processed in 34ms
+2024-05-14 02:14:29.487 INFO 4242 --- [http-nio-8080-exec-1] c.c.orders.service.OrderService : Order 321736 processed in 136ms
+2024-05-14 02:14:30.578 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 794698 processed in 86ms
+2024-05-14 02:14:31.283 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.service.OrderService : Order 967163 processed in 99ms
+2024-05-14 02:14:32.201 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.web.OrderController : Order 912256 processed in 175ms
+2024-05-14 02:14:33.053 INFO 4242 --- [http-nio-8080-exec-10] c.c.orders.web.OrderController : Order 258599 processed in 64ms
+2024-05-14 02:14:34.398 INFO 4242 --- [http-nio-8080-exec-8] c.c.orders.web.OrderController : Order 436152 processed in 50ms
+2024-05-14 02:14:35.626 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 654971 processed in 99ms
+2024-05-14 02:14:36.847 INFO 4242 --- [http-nio-8080-exec-4] c.c.orders.service.OrderService : Order 558543 processed in 143ms
+2024-05-14 02:14:37.500 INFO 4242 --- [http-nio-8080-exec-17] c.c.orders.service.OrderService : Order 993692 processed in 142ms
+2024-05-14 02:14:38.851 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 660968 processed in 134ms
+2024-05-14 02:14:40.074 INFO 4242 --- [http-nio-8080-exec-11] c.c.orders.web.OrderController : Order 906510 processed in 136ms
+2024-05-14 02:14:40.745 INFO 4242 --- [http-nio-8080-exec-9] c.c.orders.web.OrderController : Order 166266 processed in 139ms
+2024-05-14 02:14:41.892 INFO 4242 --- [http-nio-8080-exec-2] c.c.orders.web.OrderController : Order 993829 processed in 107ms
+2024-05-14 02:14:42.842 INFO 4242 --- [http-nio-8080-exec-3] c.c.orders.web.OrderController : Order 850647 processed in 33ms
+2024-05-14 02:14:43.467 INFO 4242 --- [http-nio-8080-exec-5] c.c.orders.web.OrderController : Order 431357 processed in 61ms
+2024-05-14 02:14:44.722 INFO 4242 --- [http-nio-8080-exec-20] c.c.orders.web.OrderController : Order 351296 processed in 64ms
+2024-05-14 02:14:45.632 INFO 4242 --- [http-nio-8080-exec-14] c.c.orders.service.OrderService : Order 229257 processed in 82ms
+2024-05-14 02:14:46.598 INFO 4242 --- [http-nio-8080-exec-18] c.c.orders.service.OrderService : Order 876632 processed in 118ms
+2024-05-14 02:14:47.576 INFO 4242 --- [http-nio-8080-exec-6] c.c.orders.service.OrderService : Order 895619 processed in 139ms
+2024-05-14 02:14:48.491 INFO 4242 --- [http-nio-8080-exec-7] c.c.orders.web.OrderController : Order 885381 processed in 69ms

@@ -1,0 +1,7 @@
+May 14 03:10:01 app-node-02 CRON[2211]: (root) CMD (/usr/local/bin/backup.sh)
+May 14 03:10:05 app-node-02 systemd[1]: Started Order Service.
+May 14 03:12:44 app-node-02 java[4242]: logback: write failed: No space left on device
+May 14 03:12:45 app-node-02 java[4242]: logback: write failed: No space left on device
+May 14 03:12:47 app-node-02 rsyslogd[801]: action 'action-1-builtin:omfile' suspended: No space left on device
+May 14 03:13:02 app-node-02 logrotate[2290]: error: error creating output file /var/log/orders/app.log.1: No space left on device
+May 14 03:15:00 app-node-02 kernel: [88231.112] EXT4-fs warning (device sda1): ext4_dx_add_entry: Directory index full!
