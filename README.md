@@ -67,6 +67,8 @@ Invoke-RestMethod -Method Post -Uri http://localhost:8000/ask -ContentType "appl
 ```
 Or open http://localhost:8000/docs in a browser to try every endpoint.
 
+VS Code: open the folder, pick the `.venv` interpreter if asked, then use **Run and Debug** and choose `API (FastAPI)`, `UI (Streamlit)` or `Tests (pytest)`.
+
 Use a real LLM: `copy .env.example .env`, then edit `COPILOT_LLM_PROVIDER` in `.env`. For Ollama, install it from ollama.com and run `ollama pull llama3.1` and `ollama pull nomic-embed-text`.
 
 Run the tests: `pytest`
